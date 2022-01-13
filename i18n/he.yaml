@@ -1,0 +1,41 @@
+end-users:
+  other: משתמשים
+vendors:
+  other: ספקים
+integrations:
+  other: אינטגרציות
+copyright:
+  other: זכויות יוצרים
+documentation_copyright_notice:
+  other: Documentation Distributed under CC BY 4.0
+main_copyright_notice:
+  other: The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our <a href="https://www.linuxfoundation.org/trademark-usage">Trademark Usage page</a>
+cncf_status_statement:
+  other: We are a <a href="https://cncf.io/">CNCF</a> incubated Project
+version_banner_title:
+  other: |
+    אתם צופים בדוקומנטציה עבור גרסת
+    Falco
+    :
+version_banner_warning:
+  other: " documentation is no longer actively maintained. The version you are currently viewing is a static snapshot. For up-to-date documentation, see the "
+latest_version:
+  other: "גרסא אחרונה"
+cloud-native-runtime-security:
+  other: אבטחת זמן-ריצה לטכנולוגיות קלאוד-נייטיב
+home_falco_description:
+  other: |
+    <b>Falco</b>, 
+    הפרויקט לאבטחת זמן-ריצה בטכנולוגיות קלאוד-נייטיב, הוא דה-פקטו 
+    <b>המנוע לזיהוי איומים בקוברנטיס</b>.
+    <br /><br />
+    <small>Falco 
+      הוא פרויקט אבטחת זמן-ריצה הראשון להצטרף ל
+      CNCF
+      כפרויקט הדגרה
+      (incubation-level project).
+        Falco 
+        פועל כ"מצלמת אבטחה", מזהה התנהגות לא צפויה, חדירות וגניבת מידע בזמן אמת.
+    </small>
+home_featured_videos:
+  other: סרטונים
