@@ -1,5 +1,5 @@
 ---
-title: Condition Syntax
+title: תחביר תנאים
 weight: 3
 ---
 

@@ -75,7 +75,7 @@
 
         .mr#{$infix}-auto,
         .mx#{$infix}-auto {
-            margin-right: auto !important;
+            margin-left: auto !important;
         }
 
         .mb#{$infix}-auto,
@@ -85,7 +85,8 @@
 
         .ml#{$infix}-auto,
         .mx#{$infix}-auto {
-            margin-left: auto !important;
+            margin-left: unset !important;
+            margin-right: auto !important;
         }
     }
 }

@@ -1,5 +1,5 @@
 ---
-title: Installation Tools
+title: כלי התקנה
 description: Installation tools  that are required for integrations built on the Falco core
 weight: 1
 ---

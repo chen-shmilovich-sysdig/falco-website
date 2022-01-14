@@ -1,5 +1,5 @@
 ---
-title: Default and Local Rules Files
+title: קבצי חוקים לוקאלים ודיפולטיביים
 weight: 1
 ---
 

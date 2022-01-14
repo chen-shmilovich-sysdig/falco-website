@@ -1,6 +1,10 @@
 ---
 
-title: How fd.sip.name and Related Fields Work in Falco rules
+title: |
+  איך
+  fd.sip.name
+  ושדות קשורים עובדים בחוקי
+  Falco
 weight: 3
 ---
 

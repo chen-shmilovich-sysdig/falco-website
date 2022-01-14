@@ -1,6 +1,10 @@
 ---
-title: Configuration
-description: Configuration for the Falco daemon
+title: הגדרה
+description: |
+    הגדרה עבור
+    daemon
+    של
+    Falco
 weight: 4
 notoc: true
 ---

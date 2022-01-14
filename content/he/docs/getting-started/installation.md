@@ -1,6 +1,10 @@
 ---
-title: Install
-description: Setting up Falco on a Linux system
+title: התקן
+description: |
+    הגדרת
+    Falco
+    על מערכת
+    Linux
 weight: 3
 ---
 

@@ -1,6 +1,10 @@
 ---
-title: Deployment
-description: Installing Falco on a Cluster
+title: פרישה
+description: |
+    התקנת
+    Falco
+    על
+    Cluster
 weight: 4
 ---
 

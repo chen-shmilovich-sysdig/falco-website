@@ -1,5 +1,8 @@
 ---
-title: Build Falco from source
+title: |
+    בנה את
+    Falco
+    ממקור
 weight: 5
 ---
 

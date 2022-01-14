@@ -1,5 +1,5 @@
 ---
-title: Rule Exceptions
+title: החרגות חוק
 weight: 3
 ---
 

@@ -13,7 +13,7 @@ title: Falco
 
 {{% blocks/section type="feature" color="white" %}}
 
-{{% blocks/feature icon="fa-shield-alt" title="חזק את אבטחת הקונטיינרים" %}}
+{{% blocks/feature icon="fa-shield-alt" title="הדק את אבטחת הקונטיינרים" %}}
 מנוע החוקים הגמיש מאפשר לכם לתאר התנהגות ופעילות של כל סוג של קונטיינר או שרת.
 {{% /blocks/feature %}}
 

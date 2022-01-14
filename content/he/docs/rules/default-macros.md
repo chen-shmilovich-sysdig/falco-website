@@ -1,5 +1,5 @@
 ---
-title: Default Macros
+title: מאקרוס דיפולטיביים
 weight: 2
 ---
 

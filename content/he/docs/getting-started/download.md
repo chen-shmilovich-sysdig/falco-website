@@ -1,6 +1,6 @@
 ---
-title: Download
-description: Officially supported Falco artifacts
+title: הורד
+description: ארטיפקטים נתמכים רשמית של Falco
 weight: 2
 ---
 

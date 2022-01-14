@@ -1,5 +1,5 @@
 ---
-title: Learning Environment
+title: סביבת למידה
 description: Integrations built on the Falco core in a learning environment
 weight: 2
 ---

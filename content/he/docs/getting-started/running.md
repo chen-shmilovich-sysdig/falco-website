@@ -1,6 +1,7 @@
 ---
-title: Running
-description: Operating and Managing Falco
+title: הרצה
+description: |
+    ניהול והרצה של Falco
 weight: 4
 ---
 

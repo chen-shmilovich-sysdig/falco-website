@@ -1,5 +1,5 @@
 ---
-title: Supported Fields for Conditions and Outputs
+title: שדות נתמכים עבור תנאים ופלטים
 weight: 3
 ---
 

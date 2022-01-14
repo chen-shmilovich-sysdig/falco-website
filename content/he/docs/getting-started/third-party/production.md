@@ -1,5 +1,5 @@
 ---
-title: Production Environment
+title: סביבת Production
 description: Integrations built on the Falco core in a production environment
 weight: 3
 ---

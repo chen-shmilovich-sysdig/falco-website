@@ -1,6 +1,10 @@
 ---
-title: Upgrade
-description: Upgrading Falco on a Linux system
+title: שדרוג
+description: |
+    שדרוג
+    Falco
+    על מערכת
+    Linux
 weight: 3
 ---
 
