@@ -2,6 +2,11 @@
 title: The Falco Project
 description: Cloud Native Runtime Security
 weight: 1
+menu:
+  main:
+    name: Documentation
+    linkTitle: Documentation
+    weight: 40
 ---
 
 ## What is Falco?

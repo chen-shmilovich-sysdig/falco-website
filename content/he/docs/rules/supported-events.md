@@ -1,5 +1,8 @@
 ---
-title: Supported Syscall Events
+title: |
+    אירועי
+    Syscall
+    נתמכים
 weight: 3
 ---
 

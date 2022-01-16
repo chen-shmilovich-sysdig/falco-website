@@ -1,5 +1,5 @@
 ---
-title: Event Sources
+title: מקורות אירועים
 weight: 5
 ---
 

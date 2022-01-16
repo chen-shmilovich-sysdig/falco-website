@@ -28,3 +28,5 @@ home_falco_description:
         실행 시간.</small>
 home_featured_videos:
   other: 추천 동영상
+version_menu:
+  other: Releases

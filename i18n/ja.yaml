@@ -26,3 +26,5 @@ home_falco_description:
     <small>Falcoは2016年にSysdigによって作成され、CNCFにインキュベーションレベルのプロジェクトとして参加した初のランタイムセキュリティプロジェクトです。Falcoは、予期しないアプリケーションの動作を検出し、ランタイムで脅威を警告します。</small>
 home_featured_videos:
   other: おすすめ動画
+version_menu:
+  other: Releases
