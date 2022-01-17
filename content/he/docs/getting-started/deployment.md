@@ -1,5 +1,5 @@
 ---
-title: פרישה
+title: פריסה
 description: |
     התקנת
     Falco

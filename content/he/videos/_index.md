@@ -1,5 +1,5 @@
 ---
-title: Videos
+title: סרטונים
 description: 
 weight: 9
 ---

@@ -20,19 +20,20 @@ Falco
 והוא עכשיו פרויקט הדגרה של CNCF
 ](https://www.cncf.io/blog/2020/01/08/toc-votes-to-move-falco-into-cncf-incubator/).
 
-## What does Falco do?
+## מה Falco עושה?
 
-Falco uses system calls to secure and monitor a system, by:
+Falco 
+מתעל קריאות מערכת על מנת לאבטח ולנטר מערכת, ע"י:
+- ניתוח קריאות מערכת של לינוקס מהקרנל בזמן-ריצה.
+- וידוא ערוץ המידע מול מנוע חוקים עוצמתי.
+- התרעה כאשר חוק מופר.
 
- - Parsing the Linux system calls from the kernel at runtime
- - Asserting the stream against a powerful rules engine
- - Alerting when a rule is violated
+ למידע נוסף, קרא על 
+ [חוקי Falco](rules).
 
- For more information, see Falco [Rules](rules).
+## מה Falco מאבחן?
 
-## What does Falco check for?
-
-Falco ships with a default set of rules that check the kernel for unusual behavior such as:
+Falco מגיע עם סט של חוקים דיפולטיביים שבוחנים את הקרנל ומזהים התנהגות חריגה כדוגמת:
 
  - Privilege escalation using privileged containers
  - Namespace changes using tools like `setns`
